@@ -1,1 +1,1 @@
-# SpaceApps
+# Space Apps Challenge
